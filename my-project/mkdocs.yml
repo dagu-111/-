@@ -1,0 +1,9 @@
+site_name: XGK
+repo_url: https://github.com/example/repository/
+nav:
+    - 概述: 概述.md
+    - CVT250项目测试线: 项目\2020年\01.md
+    - 知识: about.md
+    - 案例: about.md
+    - 关于: about.md
+theme: readthedocs
